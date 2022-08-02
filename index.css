@@ -1,0 +1,29 @@
+body{
+    box-sizing: border-box;
+    margin: 10px;
+    padding-top: 10px;
+    min-width: 400px;
+}
+input{
+    width: 100%; 
+    padding: 10px 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border: 1px solid green;
+    box-sizing: border-box;
+}
+button{
+    background-color: green;
+    color: white ;
+    padding: 5px 10px;
+    font-weight: bold;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+#deletebtn{ 
+background-color: white;
+color : green
+}
+ul{
+    list-style: none;
+}
